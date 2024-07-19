@@ -1,4 +1,4 @@
-# Curso de Spring Framework - MitoCode
+# Taller de Inicio de Spring Framework - MitoCode
 
 Este repositorio contiene el material y los ejercicios del curso de Spring Framework impartido por MitoCode.
 
